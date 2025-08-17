@@ -12,7 +12,7 @@ The **Wine Quality Predictor** is a machine learning web application built with 
 - Modular design for easy extension and deployment.
 
 ## 🏗 Project Structure
-![Home Page](screenshots/Dir_Str.png)
+![Home Page](Screenshots/Dir_Str.png)
 
 ## 📊 Dataset
 The project uses the **Wine Quality Data Set** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality).
